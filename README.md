@@ -6,12 +6,12 @@
 
 My name is Muhammad Syakirurohman. You can call me Syakir (Sha·keer)
 
-- 🔭 I’m currently working on Reactjs and Vuejs
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on any cool opensource project related to my expertises.
-<!--- 🤔 I’m looking for help with ... -->
-- 💬 Ask me about 
-- 📫 How to reach me: syakirurahman@gmail.com
+- 🔭 I’m currently working on [Paradise UI](https://github.com/devaradise/paradise-ui)
+- 🌱 I’m currently learning on how to maintain an open-source project properly
+- :technologist: I'm mostly working on React and Vue 3
+- 👯 I’m available to collaborate on any cool project related to my expertises
+<!--- 🤔 I’m looking for help with .. 💬 Ask me about anything about  -->
+- 📫 Contact me @ syakirurahman@gmail.com
 - ⚡ Fun fact: 
-  - I build devaradise.com
-  - ...
+  - I write tutorials & share web dev resources @ devaradise.com
+  - I love hiking
