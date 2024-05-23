@@ -12,7 +12,7 @@ My name is Muhammad Syakirurohman. You can call me Syakir (Sha·keer)
 - 👯 I’m available to collaborate on any cool project related to my expertises
 - 📫 Contact me @ syakirurahman@gmail.com
 - ⚡ Fun fact: 
-  - I write tutorials & share web dev resources @ devaradise.com
+  - I write tutorials & share web dev resources @ [devaradise.com](https://devaradise.com)
   - I love hiking
 
 <!--- 🤔 I’m looking for help with .. 💬 Ask me about anything about  -->
