@@ -6,7 +6,7 @@
 
 My name is Muhammad Syakirurohman. You can call me Syakir (Sha·keer)
 
-- 🔭 I’m currently working on [Paradise UI](https://github.com/devaradise/paradise-ui)
+- 🔭 I’m currently working on [AlternateOSS](https://alternateoss.com)
 - 🌱 I’m currently learning on how to maintain an open-source project properly
 - :technologist: I'm mostly working on React and Vue 3
 - 👯 I’m available to collaborate on any cool project related to my expertises
