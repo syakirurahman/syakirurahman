@@ -6,7 +6,7 @@
 
 My name is Muhammad Syakirurohman. You can call me Syakir (Sha·keer)
 
-- 🔭 I’m currently working on [AlternateOSS](https://alternateoss.com)
+- 🔭 I’m currently working on & maintaining [Sellercraft](https://sellercraft.co), [Headlesswp](https://headlesswp.io), [AlternateOSS](https://alternateoss.com), & [Devaradise](https://devaradise.com)
 - 🌱 I’m currently learning on how to maintain an open-source project properly
 - :technologist: I'm mostly working on React and Vue 3
 - 👯 I’m available to collaborate on any cool project related to my expertises
